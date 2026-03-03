@@ -116,3 +116,19 @@ b) Displacement:
 0-0 / 48.23 = 0m/s
 
 
+
+## Excercise
+
+Convert to the following mk units using scientific notation.
+
+18km ->
+
+632nm ->
+
+15 microgram -> 
+
+27.3 days -> 27.3 / 24 / 60 / 60 -> 
+
+
+60km/h -> # note best to convert both units to their lower forms and then divide before notion 
+
