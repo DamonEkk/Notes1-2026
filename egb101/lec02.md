@@ -1,11 +1,14 @@
 # Week 2
 
+### Things to know
 - Problem, People and place
 - Understand the problem in more detail. Ask yourself, why might the brisbane council explore wind turbines? for example
 
 - Further refine goals and objectives. 
 - Technical spcifications
 * Location -> Houses/business = energy requirement
+
+### Questions to ask
 
 * Who are the stakeholders?
 * Who are their needs?
@@ -41,7 +44,7 @@ SAE MOBILUS
 Automotive and aerospace industry journals and ebooks from SAE International (Society of Automotive Engineers) and other organisations relating to the aerospace, automotive and commercial vehicle industries.
 
 
-### Stakeholders
+## Stakeholders
 
 - Users who are they
 * Not all stakeholders are users. 
@@ -68,7 +71,8 @@ Stakeholders: BCC, Manager, Supplier, Community Residents, Shop Holder.
 
 ## Wind turbine
 - Shop owners
--
+- Environment
+- 
 
 
 ### Details
