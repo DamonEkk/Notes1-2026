@@ -15,4 +15,4 @@ The state of the app has a websocket conenction and uses a statemachine to break
 ## Issues?
 
 
-
+    
